@@ -1,3 +1,4 @@
+name: IRR1
 on: [push]
 
 jobs:
